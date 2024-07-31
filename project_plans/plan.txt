@@ -1,0 +1,30 @@
+
+Admin | Customer | Seller | User
+
+
+Models
+  books
+  users
+  book_types
+
+Servislar
+  kitob sotish
+  kitob sotib olish
+  kitoblar ro'yxatini ko'rish, yuklab olish (audio, video)
+
+
+
+Kitob turlari
+ qog'oz
+ audio
+ elektron
+
+books
+  id
+  title
+  author
+  page_numbers
+  type
+  price
+  created_at
+
