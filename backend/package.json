@@ -1,0 +1,21 @@
+{
+  "name": "homework-8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Yuldoshova Ozoda",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "pg": "^8.12.0",
+    "pkg": "^5.8.1"
+  }
+}
